@@ -8,7 +8,7 @@ Hello World!!! 👋 My name is Vitor and...
 
 - 💻 I'm searching a front-end developer junior job.
 
-- 🔭 I’m currently working .
+- 🔭 I’m currently working at Sigein Sistemas.
 
 - 🌱 I’m currently learning Javascript.
 
