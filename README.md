@@ -1,8 +1,14 @@
+Vitor Saturnino 👨‍💻
+
 ### Hello World!!! 👋
 
-My name is Vitor and I am a Front-End Developer student.
+My name is Vitor and I am a Front-End Developer student and...
 
 -🇧🇷 I'm from Brazil.
 
--💻 Currently, I'm searching a junior job.
+-💻 I'm searching a front-end developer junior.
+
+-🔭 I’m currently working 
+
+-🌱 I’m currently learning Javascript
 
