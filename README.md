@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at Sigein Sistemas.
 
-- 🌱 I’m currently learning [Javascript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+- 🌱 I’m currently learning [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 
 ![vitorsat github stats](https://github-readme-stats.vercel.app/api?username=vitorsat&theme=dark&show_icons=true)
