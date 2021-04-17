@@ -1,14 +1,15 @@
-# Vitor Saturnino :man_technologist:
+# Hi, I'm Vitor Saturnino 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=write&link=https://www.linkedin.com/in/mateus-pereira-00b705133)](https://www.linkedin.com/in/vitor-saturnino-394319182/)
+[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/vitor-saturnino-394319182/)
 
-Hello World!!! 👋 My name is Vitor and...
-
-- 🇧🇷 I'm from Brazil.
+##### IT Student
 
 - 💻 I'm searching a front-end developer junior job.
 
 - 🔭 I’m currently working at Sigein Sistemas.
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning [Javascript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+
+
+![vitorsat github stats](https://github-readme-stats.vercel.app/api?username=vitorsat&theme=dark&show_icons=true)
 
