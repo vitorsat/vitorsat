@@ -6,8 +6,6 @@
 
 - 💻 I'm searching a front-end developer junior job.
 
-- 🔭 I’m currently working at Sigein Sistemas.
-
 - 🌱 I’m currently learning [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
 
 
