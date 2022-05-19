@@ -1,6 +1,6 @@
 # Hi, I'm Vitor Saturnino 👋
 
-[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/vitor-saturnino-394319182/)
+[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/vitor-barreto-394319182/)
 
 ##### IT Student
 
