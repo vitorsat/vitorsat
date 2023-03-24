@@ -6,7 +6,7 @@
 
 - 💻 Actually, working with React js.
 
-- 🌱 I’m currently learning [Node](https://nodejs.org/en).
+- 🌱 I’m currently learning [Node.js](https://nodejs.org/en).
 
 
 ![vitorsat github stats](https://github-readme-stats.vercel.app/api?username=vitorsat&theme=dark&show_icons=true)
