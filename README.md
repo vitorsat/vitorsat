@@ -1,7 +1,7 @@
 # Hi, I'm Vitor Saturnino 👋
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>]("")
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>]("")
 
 ##### Developer
 
