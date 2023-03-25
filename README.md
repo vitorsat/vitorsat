@@ -1,8 +1,9 @@
 # Hi, I'm Vitor Saturnino 👋
 
-[<img src="https://img.icons8.com/color/30/000000/linkedin.png"/>](https://www.linkedin.com/in/vitorsat/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>]
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>]
 
-##### IT Student
+##### Developer
 
 - 💻 Actually, working with React js.
 
