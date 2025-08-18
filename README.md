@@ -21,7 +21,7 @@
 
 - Degree in Information Systems
 - Full Stack Developer, but more focused in front end
-- I'm Front End developer at [Develcode](https://www.linkedin.com/company/develcode/mycompany/)
+- I'm Front End developer at [Leroy Merlin](https://www.linkedin.com/company/leroy-merlin/posts/?feedView=all)
   
 
 ### __About__
